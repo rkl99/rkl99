@@ -6,4 +6,4 @@ My undergraduate comparative literature thesis aims to understand autofiction th
 
 In my free time, I enjoy reading great fiction, learning cool algebra facts, knitting, and eating rainbow cookies.
 
-Links to my mathematical writing (mostly notes and slides from an REU talk) are here. 
+Links to my mathematical writing (mostly notes and slides from an REU talk) are [here](https://rkl99.github.io/rkl99/notes). 
