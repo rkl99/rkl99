@@ -1,2 +1,2 @@
-title: [RKL]
-description: [A short description of your site's purpose]
+title: Rachel Kyu Yeon Lee
+description: Hello! I'm a fourth year undergraduate at the University of Chicago, majoring in mathematics and comparative literature. I'm interested in algebraic number theory. 
