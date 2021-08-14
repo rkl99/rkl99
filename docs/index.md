@@ -1,2 +1,3 @@
-title: Rachel Kyu Yeon Lee
-description: Hello! I'm a fourth year undergraduate at the University of Chicago, majoring in mathematics and comparative literature. I'm interested in algebraic number theory. 
+## Rachel Kyu Yeon Lee
+
+Hello! I'm a fourth year undergraduate at the University of Chicago, majoring in mathematics and comparative literature. This summer I participated in [the University of Chicago's Mathematics REU](http://math.uchicago.edu/~may/REU2021/). My research topic focused on finding division points of algebraic curves, touching on concepts in Galois theory, elliptic curves and functions, and modular forms.
