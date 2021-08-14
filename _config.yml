@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Rachel Kyu Yeon Lee
+
+title: Notes
+layout: minimal
+filename: notes.md
