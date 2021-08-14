@@ -1,5 +1,5 @@
 title: Notes
-layout: template
+layout: minimal
 filename: notes.md
 
 
